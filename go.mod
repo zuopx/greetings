@@ -1,3 +1,3 @@
-module gitlab.nie.netease.com/zuopanxing/greetings
+module github.com/zuopx/greetings
 
 go 1.15
